@@ -7,7 +7,7 @@
 
 ## 进程
   - 2018.07.29  SWTC基金会批准
-  - 2018.08.05  锁筹到 jJa8XYsrT9yGJMTMaF3tTFuEeHxeT2xoWS
+  - 2018.08.05  锁筹到 jJa8XYsrT9yGJMTMaF3tTFuEeHx.......
   - 2018.08.??  节点接入
 
 ## 参与 
