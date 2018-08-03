@@ -74,4 +74,4 @@
 |Larry He|647xxxxx600|5,000vcc  |D0C05884B...|jBwdz...|40cant|
 |Larry He|647xxxxx600|20,000,000swtc |7F3133C1C...|jBwdz...|20cant|
 |王x  |189xxxxx196|10,000,000swtc|B86240EF...|j4peP...|1cant|
-|郑x  |150xxxxx866|20,000,000swtc|6A2017EC0...|jL4vC...|1cant|
+|郑x  |150xxxxx866|20,000,000swtc|6A2017EC0...|jL4vC...|2cant|
