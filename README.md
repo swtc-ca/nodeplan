@@ -70,6 +70,6 @@
 |张x昊|150xxxxx895|2,500vcc     |1B6F8D04D...|jQBEg...|20cant|
 |WeixxJohn|647xxxx866|1,000,000swtc|A5C319826...|jUA9T...|1cant|
 |黄x英|182xxxxx838|5,000,000swtc|701FC86EB...|j9FBz...|5cant|
-|韩x|189xxxxx197|1,000,000swtc|07AF74C76..|.jhdoA..|1cant|
+|韩x|189xxxxx197|1,000,000swtc|07AF74C76...|jhdoA..|1cant|
 |Larry He|647xxxxx600|5,000vcc  |D0C05884B...|jBwdz...|40cant|
-|Larry He|647xxxxx600|20,000,000swtc |D0C05884B...|jBwdz...|20cant|
+|Larry He|647xxxxx600|20,000,000swtc |7F3133C1C...|jBwdz...|20cant|
