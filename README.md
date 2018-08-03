@@ -67,3 +67,4 @@
 |曾x  |189xxxxx910|10,000,000swtc|A22F0FB25...|jUFD7...|10cant|
 |刘x育|613xxxxx378|1,000,000swtc|AEE3B9FE1...|jLrJNp...|1cant|
 |Panxxxwei|647xxxx918|1,000,000swtc|683867D93...|jUEvu...|1cant|
+|张x昊|150xxxxx895|2,500vcc     |1B6F8D04D...|jQBEg...|20cant|
