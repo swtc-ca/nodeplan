@@ -68,3 +68,5 @@
 |刘x育|613xxxxx378|1,000,000swtc|AEE3B9FE1...|jLrJNp...|1cant|
 |Panxxxwei|647xxxx918|1,000,000swtc|683867D93...|jUEvu...|1cant|
 |张x昊|150xxxxx895|2,500vcc     |1B6F8D04D...|jQBEg...|20cant|
+|WeixxJohn|647xxxx866|1,000,000swtc|A5C319826...|jUA9T...|1cant|
+|黄x英|182xxxxx838|5,000,000swtc|701FC86EB...|j9FBz...|5cant|
