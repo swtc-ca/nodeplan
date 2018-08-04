@@ -76,5 +76,5 @@
 |王x  |189xxxxx196|1,000,000swtc|B86240EF...|j4peP...|1cant|
 |郑x  |150xxxxx866|2,000,000swtc|6A2017EC0...|jL4vC...|2cant|
 |石x华|133xxxxx619|10,000,000swtc|8B3B1BBC...|jDs6T...|10cant|
-|贾玉平|189xxxxx004|1,000,000swtc|3955D4C0...|jMkqu...|1cant|
+|贾x平|189xxxxx004|1,000,000swtc|3955D4C0...|jMkqu...|1cant|
 |沈x|133xxxxx058|1,000,000swtc|21706A6CC...|jMN3h...|1cant|
