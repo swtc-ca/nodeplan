@@ -82,4 +82,4 @@
 |20|万x|131xxxxx301|1,000,000swtc|210B289E...|jnM9c...|1cant|
 |21|梁x宾|188xxxxx225|1,000,000swtc|F27518518...|jaTFA...|1cant|
 |22|林x海|186xxxxx355|1,000,000swtc|38A692850...|jEzS7...|1cant|
-|23|Xinchun Liu|416xxxxx396|132,000,000swtc|38A692850...|jEzS7...|130cant|
+|23|Xinchun Liu|416xxxxx396|130,000,000swtc|38A692850...|jEzS7...|130cant|
