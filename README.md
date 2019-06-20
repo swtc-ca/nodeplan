@@ -73,13 +73,13 @@
 |11|韩x|189xxxxx197|1,000,000swtc|07AF74C76...|jhdoA..|1cant|
 ||Larry He|647xxxxx600|5,000vcc  |D0C05884B...|jBwdz...|40cant|
 |12|Larry He|647xxxxx600|20,000,000swtc |7F3133C1C...|jBwdz...|20cant|
-|13|王x  |189xxxxx196|1,000,000swtc|B86240EF...|j4peP...|1cant|
+||王x  |189xxxxx196|1,000,000swtc|B86240EF...|j4peP...|1cant|
 ||郑x  |150xxxxx866|2,000,000swtc|6A2017EC0...|jL4vC...|2cant|
-|15|石x华|133xxxxx619|10,000,000swtc|8B3B1BBC...|jDs6T...|10cant|
+||石x华|133xxxxx619|10,000,000swtc|8B3B1BBC...|jDs6T...|10cant|
 |16|贾x平|189xxxxx004|1,000,000swtc|3955D4C0...|jMkqu...|1cant|
 ||沈x|133xxxxx058|1,000,000swtc|21706A6CC...|jMN3h...|1cant|
 |18|赵x柱|134xxxxx811|5,000,000swtc|E3C64063...|jL7rm...|5cant|
 |19|万x|131xxxxx301|1,000,000swtc|210B289E...|jnM9c...|1cant|
-|20|梁x宾|188xxxxx225|1,000,000swtc|F27518518...|jaTFA...|1cant|
-|21|林x海|186xxxxx355|1,000,000swtc|38A692850...|jEzS7...|1cant|
+||梁x宾|188xxxxx225|1,000,000swtc|F27518518...|jaTFA...|1cant|
+||林x海|186xxxxx355|1,000,000swtc|38A692850...|jEzS7...|1cant|
 |22|Xinchun Liu|416xxxxx396|130,000,000swtc|C7E56ACB7...|jLvo6...|130cant|
